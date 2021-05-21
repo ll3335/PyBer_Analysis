@@ -10,15 +10,19 @@ This analysis shows a summary DataFrame of the ride-sharing data by city type an
 The image above illustrates the summary of ride sharing data by each city type.
 
 - Total Rides
+
 The number of total rides increases with the increases in population. Urban city has the most number of total rides with suburban being in the middle and rural city has the least number.
 
 - Total Drivers
+
 The number of total drivers increases with the increases in population. Urban city has the most number of total drivers with suburban being in the middle and rural city has the least number.
 
 - Total Fares
+
 The amount of total fares increases with the increases in population. Urban city has the most amount of total fares with suburban being in the middle and rural city has the least amount.
 
 - Average Fare per Ride and Driver
+
 The average fare per ride and driver decreases with the increases in population. Rural city has the largest amount with suburban being in the middle and urban city has the least amount.
 
 - Total Fares by City Types
