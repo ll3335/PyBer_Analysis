@@ -21,7 +21,7 @@ The amount of total fares increases with the increases in population. Urban city
 - Average Fare per Ride and Driver
 The average fare per ride and driver decreases with the increases in population. Rural city has the largest amount with suburban being in the middle and urban city has the least amount.
 
--Total Fares by City Types
+- Total Fares by City Types
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/82549066/119196992-14ddd180-ba55-11eb-9ae6-354687914444.png)
 The image above illustrates the total fares by city type. 
